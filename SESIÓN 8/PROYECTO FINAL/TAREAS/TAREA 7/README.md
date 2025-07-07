@@ -1,4 +1,4 @@
-# Dashboard de Resumen Ejecutivo de SuperFresco
+# Tarea: Dashboard de Resumen Ejecutivo de SuperFresco
 
 Este proyecto tiene como objetivo la creación de una vista rápida y efectiva de los **KPIs clave**, las **tendencias de ingresos** y las **métricas de rendimiento** para SuperFresco en Power BI. Esta guía sirve como punto de partida; siéntete libre de modificar o agregar cualquier elemento para adaptarlo a tus preferencias.
 
